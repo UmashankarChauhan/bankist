@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bankist/static/css/main.644e2c4a.css",
+    "main.js": "/bankist/static/js/main.d99913ba.js",
+    "static/media/card.jpg": "/bankist/static/media/card.10658f8229d31da9ef62.jpg",
+    "static/media/hero.png": "/bankist/static/media/hero.155e8260fa5028b09e6f.png",
+    "static/media/digital.jpg": "/bankist/static/media/digital.b3f14c0247a86054d880.jpg",
+    "static/media/grow.jpg": "/bankist/static/media/grow.b9130134f816e3657e62.jpg",
+    "static/media/logo.png": "/bankist/static/media/logo.195824f1c2c0bd243653.png",
+    "index.html": "/bankist/index.html",
+    "main.644e2c4a.css.map": "/bankist/static/css/main.644e2c4a.css.map",
+    "main.d99913ba.js.map": "/bankist/static/js/main.d99913ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.644e2c4a.css",
+    "static/js/main.d99913ba.js"
+  ]
+}
